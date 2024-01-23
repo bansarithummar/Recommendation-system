@@ -1,7 +1,14 @@
 # Recommendation-system
 I am trying to build a recommendation system algorithm.
 Adding a recommendation system to a website can be helpful for the following reasons.
-1) Increase in sales thanks to personalized offers.
-2) Enhanced customer experience.
-3) More time spent on the platform.
-4) Customer retention thanks to users feeling understood.
+1) Experience a surge in sales attributed to customized promotions that cater to individual preferences.
+2) Witness an enriched level of customer satisfaction through personalized interactions and tailored experiences.
+3) Notice an increase in users' duration on the platform, indicative of heightened engagement and interest.
+4) Foster customer retention by cultivating understanding ensuring users feel acknowledged and valued.
+
+
+Using machine learning, recommender systems provide you with suggestions in a few ways:
+
+1) Collaborative Filtering
+2) Content-based Filtering
+3) Hybrid (Combination of Both)
