@@ -1,5 +1,5 @@
 # Recommendation-system
-I am trying to build a recommendation system algorithm.
+Let's build a recommendation system algorithm.
 Adding a recommendation system to a website can be helpful for the following reasons.
 1) Experience a surge in sales attributed to customized promotions that cater to individual preferences.
 2) Witness an enriched level of customer satisfaction through personalized interactions and tailored experiences.
