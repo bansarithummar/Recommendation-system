@@ -12,3 +12,7 @@ Using machine learning, recommender systems provide you with suggestions in a fe
 1) Collaborative Filtering
 2) Content-based Filtering
 3) Hybrid (Combination of Both)
+
+
+References:
+[1] Jake Noble (2022). A Practical Guide to Building an Online Recommendation System. 'https://www.tecton.ai/blog/guide-to-building-online-recommendation-system/'.
