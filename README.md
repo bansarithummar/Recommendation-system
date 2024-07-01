@@ -16,3 +16,4 @@ Using machine learning, recommender systems provide you with suggestions in a fe
 
 References:
 [1] Jake Noble (2022). A Practical Guide to Building an Online Recommendation System. 'https://www.tecton.ai/blog/guide-to-building-online-recommendation-system/'.
+[2] Sinha Nimesh (2024). Beyond the Click: Elevating DoorDash’s Personalized Notification Experience with GNN Recommendation. 'https://doordash.engineering/2024/06/25/doordash-customize-notifications-how-gnn-work/'.
