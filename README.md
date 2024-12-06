@@ -4,7 +4,7 @@ Adding a recommendation system to a website can be helpful for the following rea
 1) Experience a surge in sales attributed to customized promotions that cater to individual preferences.
 2) Witness an enriched level of customer satisfaction through personalized interactions and tailored experiences.
 3) Notice an increase in users' duration on the platform, indicative of heightened engagement and interest.
-4) Foster customer retention by cultivating understanding ensuring users feel acknowledged and valued.
+4) Foster customer retention by cultivating understanding, and ensuring users feel acknowledged and valued.
 
 
 Using machine learning, recommender systems provide you with suggestions in a few ways:
