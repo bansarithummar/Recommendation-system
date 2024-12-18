@@ -8,7 +8,6 @@ Adding a recommendation system to a website can be helpful for the following rea
 
 
 Using machine learning, recommender systems provide you with suggestions in a few ways:
-
 1) Collaborative Filtering
 2) Content-based Filtering
 3) Hybrid (Combination of Both)
